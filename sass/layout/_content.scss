@@ -72,7 +72,7 @@
 .cta-section{
 	margin: 30px -30px;
 	padding: 50px 30px;
-	color: white;
+	color: black;
 
 	.cta-title{
 		@include em(60);
@@ -80,7 +80,7 @@
 	}
 	p{margin-bottom: 30px}
 	.button{
-		background-color: white;
+		background-color: black;
 		color: $accent-color;
 		padding: 10px 30px;
 	}
